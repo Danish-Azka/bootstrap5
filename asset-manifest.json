@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bootstrap5/static/css/main.efebce5d.css",
+    "main.js": "/bootstrap5/static/js/main.c657bd9d.js",
+    "static/media/abstrak.png": "/bootstrap5/static/media/abstrak.a8c56a46980b089656be.png",
+    "static/media/sara.png": "/bootstrap5/static/media/sara.7c33c67f3f5f41825fe0.png",
+    "static/media/brandon.png": "/bootstrap5/static/media/brandon.06b90150fbcf8107205a.png",
+    "static/media/xavier.png": "/bootstrap5/static/media/xavier.c0b1e861d055c58322b8.png",
+    "static/media/human2.png": "/bootstrap5/static/media/human2.64a6ff011c02470dffaf.png",
+    "static/media/human.png": "/bootstrap5/static/media/human.88b44dfc082e8fc06030.png",
+    "static/media/404.png": "/bootstrap5/static/media/404.16beeea04a14f7e3feaf.png",
+    "static/media/bsc.png": "/bootstrap5/static/media/bsc.ae34fdb3935c50e05d87.png",
+    "static/media/bunder2.png": "/bootstrap5/static/media/bunder2.646022040c6fc7e5857d.png",
+    "static/media/rafiki4.png": "/bootstrap5/static/media/rafiki4.99ecebc0c8b25eca3806.png",
+    "static/media/rafiki.png": "/bootstrap5/static/media/rafiki.5f44de54dbd0a70b6363.png",
+    "static/media/rafiki2.png": "/bootstrap5/static/media/rafiki2.fdb0c10ddd25f290ca66.png",
+    "static/media/Standard.png": "/bootstrap5/static/media/Standard.a3cba61f2c91ed0ed05d.png",
+    "static/media/rafiki3.png": "/bootstrap5/static/media/rafiki3.d5ffba2b80ec00975d63.png",
+    "static/media/human3.png": "/bootstrap5/static/media/human3.70068b03b7e8111a3272.png",
+    "static/media/cl.png": "/bootstrap5/static/media/cl.cd0ac440ba74a1a436e1.png",
+    "index.html": "/bootstrap5/index.html",
+    "main.efebce5d.css.map": "/bootstrap5/static/css/main.efebce5d.css.map",
+    "main.c657bd9d.js.map": "/bootstrap5/static/js/main.c657bd9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efebce5d.css",
+    "static/js/main.c657bd9d.js"
+  ]
+}
